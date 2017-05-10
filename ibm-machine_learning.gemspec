@@ -5,7 +5,7 @@ require 'ibm/machine_learning/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ibm-machine_learning"
-  spec.version       = Ibm::MachineLearning::VERSION
+  spec.version       = IBM::MachineLearning::VERSION
   spec.authors       = ["David Thomason"]
   spec.email         = ["dlthomas@us.ibm.com"]
 
